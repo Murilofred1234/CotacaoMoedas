@@ -1,3 +1,4 @@
+.dadosBTC,
 .dadosDolar,
 .dadosIene {
     margin: 3em auto;
@@ -25,13 +26,16 @@
     height: 40px;
 }
 
+.grafico__ilustracao-BTC,
 .grafico__ilustracao-dolar {
     background-image: url('../imagens/cifrao.png');
 }
 
+
 .grafico__ilustracao-iene {
     background-image: url('../imagens/iene.png');
 }
+
 
 .grafico__titulo h2 {
     color: var(--cinza);
